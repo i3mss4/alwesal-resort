@@ -1,0 +1,580 @@
+[
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahsans\\otf\\thmanyahsans-Black.otf",
+    "names": {
+      "1": "thmanyah sans Black",
+      "2": "Regular",
+      "16": "thmanyah sans",
+      "17": "Black"
+    },
+    "weight": 900,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "case",
+        "ccmp",
+        "dlig",
+        "fina",
+        "frac",
+        "init",
+        "liga",
+        "locl",
+        "medi",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "ss08",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahsans\\otf\\thmanyahsans-Bold.otf",
+    "names": {
+      "1": "thmanyah sans",
+      "2": "Bold"
+    },
+    "weight": 700,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "case",
+        "ccmp",
+        "dlig",
+        "fina",
+        "frac",
+        "init",
+        "liga",
+        "locl",
+        "medi",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "ss08",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahsans\\otf\\thmanyahsans-Light.otf",
+    "names": {
+      "1": "thmanyah sans Light",
+      "2": "Regular",
+      "16": "thmanyah sans",
+      "17": "Light"
+    },
+    "weight": 300,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "case",
+        "ccmp",
+        "dlig",
+        "fina",
+        "frac",
+        "init",
+        "liga",
+        "locl",
+        "medi",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "ss08",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahsans\\otf\\thmanyahsans-Medium.otf",
+    "names": {
+      "1": "thmanyah sans Med",
+      "2": "Regular",
+      "16": "thmanyah sans",
+      "17": "Medium"
+    },
+    "weight": 500,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "case",
+        "ccmp",
+        "dlig",
+        "fina",
+        "frac",
+        "init",
+        "liga",
+        "locl",
+        "medi",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "ss08",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahsans\\otf\\thmanyahsans-Regular.otf",
+    "names": {
+      "1": "thmanyah sans",
+      "2": "Regular"
+    },
+    "weight": 400,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "case",
+        "ccmp",
+        "dlig",
+        "fina",
+        "frac",
+        "init",
+        "liga",
+        "locl",
+        "medi",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "ss08",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahserifdisplay\\otf\\thmanyahserifdisplay-Black.otf",
+    "names": {
+      "1": "thmanyah serif display Black",
+      "2": "Regular",
+      "16": "thmanyah serif display",
+      "17": "Black"
+    },
+    "weight": 900,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahserifdisplay\\otf\\thmanyahserifdisplay-Bold.otf",
+    "names": {
+      "1": "thmanyah serif display",
+      "2": "Bold"
+    },
+    "weight": 700,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahserifdisplay\\otf\\thmanyahserifdisplay-Light.otf",
+    "names": {
+      "1": "thmanyah serif display Light",
+      "2": "Regular",
+      "16": "thmanyah serif display",
+      "17": "Light"
+    },
+    "weight": 300,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahserifdisplay\\otf\\thmanyahserifdisplay-Medium.otf",
+    "names": {
+      "1": "thmanyah serif display Med",
+      "2": "Regular",
+      "16": "thmanyah serif display",
+      "17": "Medium"
+    },
+    "weight": 500,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahserifdisplay\\otf\\thmanyahserifdisplay-Regular.otf",
+    "names": {
+      "1": "thmanyah serif display",
+      "2": "Regular"
+    },
+    "weight": 400,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahseriftext\\otf\\thmanyahseriftext-Black.otf",
+    "names": {
+      "1": "thmanyah serif text Black",
+      "2": "Regular",
+      "16": "thmanyah serif text",
+      "17": "Black"
+    },
+    "weight": 900,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahseriftext\\otf\\thmanyahseriftext-Bold.otf",
+    "names": {
+      "1": "thmanyah serif text",
+      "2": "Bold"
+    },
+    "weight": 700,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahseriftext\\otf\\thmanyahseriftext-Light.otf",
+    "names": {
+      "1": "thmanyah serif text Light",
+      "2": "Regular",
+      "16": "thmanyah serif text",
+      "17": "Light"
+    },
+    "weight": 300,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahseriftext\\otf\\thmanyahseriftext-Medium.otf",
+    "names": {
+      "1": "thmanyah serif text Med",
+      "2": "Regular",
+      "16": "thmanyah serif text",
+      "17": "Medium"
+    },
+    "weight": 500,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  },
+  {
+    "file": "Thmanyah-Font-Family\\thmanyah typeface\\thmanyahseriftext\\otf\\thmanyahseriftext-Regular.otf",
+    "names": {
+      "1": "thmanyah serif text",
+      "2": "Regular"
+    },
+    "weight": 400,
+    "features": {
+      "GSUB": [
+        "aalt",
+        "ccmp",
+        "dlig",
+        "fina",
+        "init",
+        "liga",
+        "lnum",
+        "locl",
+        "medi",
+        "onum",
+        "rlig",
+        "salt",
+        "ss01",
+        "ss03",
+        "ss04",
+        "ss05",
+        "ss06",
+        "ss07",
+        "swsh"
+      ],
+      "GPOS": [
+        "curs",
+        "kern",
+        "mark",
+        "mkmk"
+      ]
+    }
+  }
+]

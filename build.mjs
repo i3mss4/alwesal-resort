@@ -1,0 +1,11 @@
+import {mkdir,copyFile,cp,rm} from 'node:fs/promises';
+import path from 'node:path';
+const output=path.resolve('dist');
+if(path.dirname(output)!==process.cwd())throw new Error('Build output must be inside the project');
+await rm(output,{recursive:true,force:true});
+await mkdir('dist',{recursive:true});
+for(const file of ['index.html','app.js','style.css','مقطع الوصال.mp4']) await copyFile(file,`dist/${file}`);
+await mkdir('dist/assets',{recursive:true});
+for(const file of ['placeholder.svg','alwesal-logo.png'])await copyFile(`assets/${file}`,`dist/assets/${file}`);
+await cp('assets/thmanyah','dist/assets/thmanyah',{recursive:true});
+console.log('Static frontend built in dist. Configure SPA fallback for /book, /my-bookings and /admin.');
