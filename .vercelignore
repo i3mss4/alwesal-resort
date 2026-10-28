@@ -1,0 +1,14 @@
+.git
+.env*
+.aws
+.codex
+.agents
+node_modules
+dist
+qa
+preview-*.png
+Thmanyah-Font-Family
+Changa.zip
+assets/fonts
+font-guide-extracted.txt
+scripts/github-setup.mjs
